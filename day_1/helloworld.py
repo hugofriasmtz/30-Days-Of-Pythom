@@ -15,7 +15,7 @@ print(3 %  2)             # modulus(%)
 print(3 // 2)            # Floor division operator(//)
 
 # Write strings on the python interactive shell.
-print('Hugo Frias')
+print('Hugo Frias Martinez')
 print('Erwin Alan')
 print('Mexico')
 print('I am enjoying 30 days of python')
